@@ -1,0 +1,19 @@
+Python is a high-level, general-purpose programming language created by Guido van Rossum and first released in 1991. It's known for readable code that looks close to plain English, which makes it one of the most popular first languages and one of the most widely used languages overall.
+
+Key features
+
+Simple syntax: Indentation defines code blocks, so there are no curly braces or semicolons.
+Interpreted: You run code directly without a separate compile step, which makes testing quick.
+Dynamically typed: You don't declare variable types, though optional type hints are available.
+Multi-paradigm: It supports procedural, object-oriented and functional styles.
+Huge ecosystem: Hundreds of thousands of packages are available through pip and PyPI.
+Cross-platform: It runs on Windows, macOS and Linux.
+
+What Python is used for
+
+Data science and analytics: pandas, NumPy, Matplotlib
+Machine learning and AI: PyTorch, TensorFlow, scikit-learn (this is where RAG and LLM apps live too)
+Web development: Django, Flask, FastAPI
+Automation and scripting: file handling, web scraping, bots
+Testing, DevOps and cloud tooling
+Education: it's a common first language in schools and bootcamps".
