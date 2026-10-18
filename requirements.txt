@@ -10,3 +10,7 @@ pypdf
 python-dotenv
 unstructured[docx]
 matplotlib
+##embeddings
+langchain-huggingface
+sentence-transformers
+langchain-openai
